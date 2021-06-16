@@ -1,0 +1,59 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    color: white;
+    width: 100%;
+    height: 30%;
+    background-color: green;
+}
+
+.Titulo {
+    height: 30px;
+    position: relative;
+    font-size: 4rem;
+    color: white;
+}
+
+.l1 {
+    position: relative;
+    font-size: 2rem;
+    display: inline-block;
+    left: 83%;
+    padding-left: 1%;
+    color: white; 
+}
+
+main {
+    font-size: 2rem;
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+}
+
+.fo {
+    font-size: 2rem;
+    position: relative;
+    padding-inline: 50px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+}
