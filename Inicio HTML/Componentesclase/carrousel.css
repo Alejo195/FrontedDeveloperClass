@@ -5,9 +5,10 @@
 .carrousel {
     width: 100%;
     overflow: scroll;
-    padding: 30px;
+    padding-left: 30px;
     position: relative;
 }
+
 
 .carrousel__container {
     white-space: nowrap;
@@ -48,6 +49,7 @@
     object-fit: cover;
 }
 
+
 .carrousel-item__details {
     background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 100%, );
     font size: 10px;
@@ -59,4 +61,10 @@
     left: 0;
     right: 0;
     bottom: 0;
+}
+
+.carrousel-item__details--title {
+    color: white;
+    display: flex;
+    align-items: flex-end;
 }
