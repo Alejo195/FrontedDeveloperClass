@@ -80,8 +80,11 @@ margin-bottom: 11px;
     margin-right: 10px;
 }
 
-.login__container--register {
+.login__container--registro {
     font-size: 14px;
+    display: flex;
+    justify-content: center;
+    text-indent: 6px;
 
 }
 

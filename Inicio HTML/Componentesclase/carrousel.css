@@ -63,8 +63,3 @@
     bottom: 0;
 }
 
-.carrousel-item__details--title {
-    color: white;
-    display: flex;
-    align-items: flex-end;
-}
